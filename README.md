@@ -31,3 +31,68 @@ Video: [Youtube (in Ukrainian)](https://youtu.be/SdnSHb2zFW0)
 - [OWASP 20th Anniversary](https://owasp20thanniversaryevent20.sched.com/event/lbhP/react-native-security-addressing-typical-mistakes) - 24 September 2021
 - [Oh My Hack! International](https://omhconf.pl/omh-international/lecture#id=65463) - 11 May 2021
 - [OWASP Ukraine](https://cfp.owaspukraine.org/owaspukraine2020/talk/TRDAKN/) - 5 December 2020
+
+---
+
+# The Art of Secure Architecture
+
+Alternative title: "Why can't developers make it secure?"
+
+In this talk I raise the following questions:
+- The difference between secure coding and secure architecture;
+- The importance of communication, ownership and shared responsibility;
+- SSDLC and secure architecture lifecycle.
+
+Slides: TBD
+
+**Presented at:**
+- [NoNameCon]() - 3 September 2021
+- [Craft](https://craft-conf.com/speaker/JuliaPotapenko) - 2 June 2021
+
+---
+
+# Secure Authentication. Are you sure you do it right?
+
+Alternative titles: "Making authentication more secure", "When authentication goes wrong"
+
+It is a talk created for the audience of mobile application developers where I show
+- Guides and standards commonly used to assess security level of the mobile apps;
+- Common mobile app authentication vulnerabilities and how to find and fix them;
+- Local authentication best practices with examples.
+
+Slides: [Secure Authentication. Are you sure you do it right?](https://speakerdeck.com/julep/secure-authentication-are-you-sure-you-do-it-right)
+
+Video: TBD
+
+**Presented at:**
+- [NSSpain]()
+- WTM Lviv / CocoaHeads Lviv local meetup
+- CocoaHeads Kyiv CocoaFriday local meetup
+
+---
+
+# Other Mobile Security Talks
+
+### Encryption Export Regulations. Why should mobile developers care?
+
+A lightning talk presented at [Women Who Code Connect]() - 10 June 2021.
+
+[Slides](https://speakerdeck.com/julep/encryption-export-regulations-why-should-mobile-developers-care). [Video (in English)]().
+
+### iOS App Vulnerabilities and how to fix them
+
+Presented at [iOS Ukraine]() - 17 May 2021.
+
+[Slides](https://speakerdeck.com/julep/common-ios-vulnerabilities-and-how-to-fix-them)
+
+### Touch ID and Face ID. Is it secure?
+
+Presented at OWASP Zhytomyr local meetup.
+
+[Slides](https://speakerdeck.com/julep/touch-id-and-face-id-is-it-secure)
+
+### OWASP MSTG in Real Life
+
+Presented at OWASP Kyiv local meetup.
+
+[Slides](https://speakerdeck.com/julep/owasp-mstg-in-real-life)
