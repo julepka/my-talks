@@ -43,7 +43,7 @@ In this talk I raise the following questions:
 - The importance of communication, ownership and shared responsibility;
 - SSDLC and secure architecture lifecycle.
 
-Slides: TBD
+Slides: [The Art of Secure Architecture](https://speakerdeck.com/julep/the-art-of-secure-architecture)
 
 **Presented at:**
 - [NoNameCon]() - 3 September 2021
@@ -62,12 +62,28 @@ It is a talk created for the audience of mobile application developers where I s
 
 Slides: [Secure Authentication. Are you sure you do it right?](https://speakerdeck.com/julep/secure-authentication-are-you-sure-you-do-it-right)
 
-Video: TBD
+Video: [Vimeo (in English)](https://vimeo.com/479270246) [Youtube (in Russian)](https://youtu.be/RiUY2sL5s-4)
 
 **Presented at:**
-- [NSSpain]()
-- WTM Lviv / CocoaHeads Lviv local meetup
-- CocoaHeads Kyiv CocoaFriday local meetup
+- [NSSpain](https://2020.nsspain.com/) - 19 November 2020
+- WTM Lviv / CocoaHeads Lviv local meetup - 29 September 2019
+- CocoaHeads Kyiv CocoaFriday local meetup - 10 May 2019
+
+---
+
+# Discussion Format
+
+### SecuriTea
+
+A series of cozy online meetups of the local WWCodeKyiv chapter - started in 2021. We share our recent thoughts about security with the members of the community. Recent topics:
+- WWDC news: Security & Privacy;
+- Books, blogs, people to learn more about security.
+
+### Security Roundtable
+
+A roundtable session with Anastasi Voitova and Julia Vashchenko where we discuss real-life securuty cases together with the audince of iOS developers.
+
+[Video (in English)](https://youtu.be/M6VihvXUG88) from the conference [SwiftHeroes](https://swiftheroes.com/2020/) - 2 October 2020
 
 ---
 
@@ -75,24 +91,24 @@ Video: TBD
 
 ### Encryption Export Regulations. Why should mobile developers care?
 
-A lightning talk presented at [Women Who Code Connect]() - 10 June 2021.
+A lightning talk presented at [Women Who Code Connect](https://hopin.com/events/connect-reimagine) - 10 June 2021.
 
-[Slides](https://speakerdeck.com/julep/encryption-export-regulations-why-should-mobile-developers-care). [Video (in English)]().
+[Slides](https://speakerdeck.com/julep/encryption-export-regulations-why-should-mobile-developers-care). [Video (in English)](https://youtu.be/L0bVrs2dwAw).
 
 ### iOS App Vulnerabilities and how to fix them
 
-Presented at [iOS Ukraine]() - 17 May 2021.
+Presented at [iOS Ukraine](https://www.iosukraine.com/) - 17 May 2021.
 
 [Slides](https://speakerdeck.com/julep/common-ios-vulnerabilities-and-how-to-fix-them)
 
 ### Touch ID and Face ID. Is it secure?
 
-Presented at OWASP Zhytomyr local meetup.
+Presented at OWASP Zhytomyr local meetup - 29 June 2019.
 
-[Slides](https://speakerdeck.com/julep/touch-id-and-face-id-is-it-secure)
+[Slides](https://speakerdeck.com/julep/touch-id-and-face-id-is-it-secure). [Video (in Russian)](https://youtu.be/f-JvqJphptM)
 
 ### OWASP MSTG in Real Life
 
-Presented at OWASP Kyiv local meetup.
+Presented at OWASP Kyiv local meetup - 6 April 2019.
 
-[Slides](https://speakerdeck.com/julep/owasp-mstg-in-real-life)
+[Slides](https://speakerdeck.com/julep/owasp-mstg-in-real-life). [Video (in Russian)](https://youtu.be/BTkXlsTQtlI)
