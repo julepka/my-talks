@@ -1,4 +1,4 @@
-<img src="https://scontent.fiev6-1.fna.fbcdn.net/v/t1.18169-9/29541489_2085028618411656_6811696477046946767_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=F2707ZYmT8UAX9ZzKAY&_nc_ht=scontent.fiev6-1.fna&oh=320f6f08022944d4789c41b0bec284db&oe=61499D81" height="270" align="right">
+<img src="https://scontent.fiev6-1.fna.fbcdn.net/v/t1.18169-9/29541489_2085028618411656_6811696477046946767_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=F2707ZYmT8UAX9ZzKAY&_nc_ht=scontent.fiev6-1.fna&oh=320f6f08022944d4789c41b0bec284db&oe=61499D81" width="300" align="right">
 
 This repo is where I keep a list of my tech talks about application security and related topics.
 
@@ -10,7 +10,7 @@ Take a look at our open-source tools:
 
 ⭐ [Themis](https://github.com/cossacklabs/themis) - high-level cryptographic library, suppotring 14 platforms/languages.
 
-⭐ [Acra](https://github.com/cossacklabs/acra) - database security suite field level encryption for sensitive data protection.
+⭐ [Acra](https://github.com/cossacklabs/acra) - database security suite with field level encryption for sensitive data protection.
 
 Also, I'm passionate about local tech communities. 👩🏼‍💻 I'm a Security Lead at [Women Who Code Kyiv](https://www.womenwhocode.com/kyiv), a Leader of the [OWASP Zhytomyr Chapter](https://owasp.org/www-chapter-zhytomyr), and a contributor to [OWASP MASVS/MSTG](https://github.com/OWASP/owasp-mstg).
 
