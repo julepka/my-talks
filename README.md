@@ -47,8 +47,12 @@ In this talk I raise the following questions:
 
 Slides: [The Art of Secure Architecture](https://speakerdeck.com/julep/the-art-of-secure-architecture)
 
+Slides: [Why can't developers make it secure?](https://speakerdeck.com/julep/why-cant-developers-make-it-secure)
+
+Video: [Why can't developers make it secure? (in English)](https://youtu.be/-_svlHwWo_A)
+
 **Presented at:**
-- [NoNameCon]() - 3 September 2021
+- [NoNameCon](https://nonamecon.org/why-cant-developers-make-it-secure/) - 3 September 2021
 - [Craft](https://craft-conf.com/speaker/JuliaPotapenko) - 2 June 2021
 
 ---
