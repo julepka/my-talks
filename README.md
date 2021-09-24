@@ -23,7 +23,7 @@ In my talk, I shed light on:
 - The security challenges it adds for developers and the potential vulnerabilities they should be aware of;
 - Time management issues when dealing with dependencies.
 
-Slides: [React Native Security. Addresing Typical Mistakes](https://speakerdeck.com/julep/react-native-security)
+Slides: [React Native Security. Addresing Typical Mistakes](https://speakerdeck.com/julep/react-native-security-ac5c8a5b-1488-41fa-be45-92b3bef2d0cb)
 
 Related article: [React Native Security: Thing to Keep in Mind](https://www.cossacklabs.com/blog/react-native-app-security.html)
 
