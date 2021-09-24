@@ -1,4 +1,4 @@
-<img src="https://scontent.fiev6-1.fna.fbcdn.net/v/t1.18169-9/29541489_2085028618411656_6811696477046946767_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=F2707ZYmT8UAX9ZzKAY&_nc_ht=scontent.fiev6-1.fna&oh=320f6f08022944d4789c41b0bec284db&oe=61499D81" width="300" align="right">
+<img src="https://github.com/julepka/my-talks/blob/main/me.jpeg?raw=true" width="300" align="right">
 
 This repo is where I keep a list of my tech talks about application security and related topics.
 
