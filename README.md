@@ -101,13 +101,17 @@ Vector media interviewed Women Who Code Kyiv members, including me, about buildi
 
 ### DOU Interview "Who is Security Specialist?"
 
-It was a short interview under their "X questions" format where I was answering general questions about working in cybersecurity.
+It was a short interview under their "X questions" format where I was answering general questions about working in cybersecurity. For example, who is security engineer, what are pros and cons of profession in cybersecurity, are security certifications worth it, etc. 
 
 [Video (in Ukrainian)](https://dou.ua/lenta/articles/questions-to-security-specialist) - 28 April 2023
 
 ### Cybersecurity career roundtable
 
+This meetup was a mix of talks and roundtables of security experts who works with foreign customers and those who works on government-led projects. It showed how different cybersecurity careers can be.
+
 [Profession and career in cybersecurity meetup](https://www.rada.gov.ua/news/news_kom/234894.html?fbclid=IwAR00_DFqcdWQZe8Y3DsFWVe36vM7KIZMCgB_pVrKQk2X11wWg8bCqsAc5KY) - 5 April 2023
+
+The audience of IT Nation 2.0 are people who fled from war from Eastern part of Ukraine and who are willing to build a tech career. It was a series of online cources and additional events with mentors and experts of different professions. I've joined as a mentor for a group of internally displaced women to encourage them to pursue their dream job. Later on, I've also joined a roundtable about career in cybersecurity.
 
 [IT Nation 2.0](https://globalcompact.org.ua/projects/it-nation-2-0/?fbclid=IwAR2Fjur9wrA6UVLSy1z6YTCBnP8OJk4M3rHndiySXX-Vm9kaRi3P7iuclvs) - October 2022
 
