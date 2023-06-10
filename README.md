@@ -1,4 +1,4 @@
-<img src="https://github.com/julepka/my-talks/blob/main/me.jpeg?raw=true" width="300" align="right">
+<img src="https://github.com/julepka/my-talks/blob/main/me.jpg?raw=true" width="300" align="right">
 
 This repo is where I keep a list of my tech talks about application security and related topics.
 
