@@ -2,7 +2,7 @@
 
 This repo is where I keep a list of my tech talks about application security and related topics.
 
-My name is Julia. Nice to meet you! 👋 
+My name is Julia. I'm from Ukraine 🇺🇦 Nice to meet you! 👋 
 
 I'm a Lead Security Engineer at [Cossack Labs](https://cossacklabs.com), building convenient and affordable data security and encryption solutions. My main personal specialization is mobile application security and Secure SDLC, as I have a solid background in mobile application development. I like to build stuff, not to break it 😄 I hold an SSCP certification.
 
