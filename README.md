@@ -4,7 +4,7 @@ This repo is where I keep a list of my tech talks about application security and
 
 My name is Julia. Nice to meet you! 👋 
 
-I'm a Security Software Engineer at [Cossack Labs](https://cossacklabs.com), building convenient and affordable data security and encryption solutions. My main personal specialization is mobile application security, as I have a solid background in mobile application development. I like to build stuff, not to break it 😄
+I'm a Lead Security Engineer at [Cossack Labs](https://cossacklabs.com), building convenient and affordable data security and encryption solutions. My main personal specialization is mobile application security and Secure SDLC, as I have a solid background in mobile application development. I like to build stuff, not to break it 😄 I hold an SSCP certification.
 
 Take a look at our open-source tools: 
 
@@ -12,9 +12,23 @@ Take a look at our open-source tools:
 
 ⭐ [Acra](https://github.com/cossacklabs/acra) - database security suite with field level encryption for sensitive data protection.
 
-Also, I'm passionate about local tech communities. 👩🏼‍💻 I'm a Security Lead at [Women Who Code Kyiv](https://www.womenwhocode.com/kyiv), a Leader of the [OWASP Zhytomyr Chapter](https://owasp.org/www-chapter-zhytomyr), and a contributor to [OWASP MASVS/MSTG](https://github.com/OWASP/owasp-mstg).
+Also, I'm passionate about local tech communities. 👩🏼‍💻 I'm a Director at [Women Who Code Kyiv](https://www.womenwhocode.com/kyiv), a Leader of the [OWASP Zhytomyr Chapter](https://owasp.org/www-chapter-zhytomyr), and a contributor to [OWASP MASVS/MSTG](https://github.com/OWASP/owasp-mstg).
 
 ---
+# Crypto Wallets Security. For developers
+
+The main ideas I've covered in my talk are:
+- Crypto wallets security is not only about the blockchain, it is also about regular application security;
+- Bypassing application-level security controls can be much easier than breaking cryptography;
+- Application developers are not experts in cryptography, they usuallyy need assistance;
+- Web3 enthusiast may not have deep knowlendge of security controls of the platform they are working on, e.g. web or mobile.
+
+Slides: [Crypto Wallets Security. For developers](https://speakerdeck.com/julep/crypto-wallets-security-for-developers)
+
+Related article: [Crypto wallets security as seen by security engineers](https://www.cossacklabs.com/blog/crypto-wallets-security/)
+
+**Presented at:**
+- [JS+React fwdays’22](https://fwdays.com/event/react-fwdays-2022)
 
 # React Native Security. Addresing Typical Mistakes
 
@@ -77,7 +91,37 @@ Video: [Vimeo (in English)](https://vimeo.com/479270246) [Youtube (in Russian)](
 
 ---
 
-# Discussion Format
+# Discussions Formats
+
+### Vector Interview
+
+Vector media interviewed Women Who Code Kyiv members, including me, about building tech community for women and stereotypes that we're facing. We talked about the history of our chapter, our mentoring program and how we continue to funtion even during russian full-scale invasion of Ukraine.
+
+[Article (in Ukrainian)](https://vctr.media/ua/dolayuchi-stereotipi-yak-women-who-code-kyiv-rozbudovuyut-zhinoche-tehnologichne-kom%ca%bcyuniti-183025/) - 11 May 2023
+
+### DOU Interview "Who is Security Specialist?"
+
+It was a short interview under their "X questions" format where I was answering general questions about working in cybersecurity.
+
+[Video (in Ukrainian)](https://dou.ua/lenta/articles/questions-to-security-specialist) - 28 April 2023
+
+### Cybersecurity career roundtable
+
+[Profession and career in cybersecurity meetup](https://www.rada.gov.ua/news/news_kom/234894.html?fbclid=IwAR00_DFqcdWQZe8Y3DsFWVe36vM7KIZMCgB_pVrKQk2X11wWg8bCqsAc5KY) - 5 April 2023
+
+[IT Nation 2.0](https://globalcompact.org.ua/projects/it-nation-2-0/?fbclid=IwAR2Fjur9wrA6UVLSy1z6YTCBnP8OJk4M3rHndiySXX-Vm9kaRi3P7iuclvs) - October 2022
+
+### Simple Security and Complience Interview
+
+We've dicussed what secure software development lifecycle is and how to implement it.
+
+[Video (in English)](https://www.youtube.com/watch?v=8iRq97kIJ4A) of the [event](https://www.linkedin.com/events/securesoftwaredevelopment-howto6976125231245455360/) - 21 September 2022
+
+### Dima Maleev Podcast "What's wrong with IT?"
+
+It was a Podcast where participants were raising donations for Armed Forces of Ukrained. While we were aiming at 4 million hryvnias, we've actually raised 12 millions! It is about $300 000. I was just amazing. I was just one of the guests. I've talked about Women Who Code Kyiv community and stereotypes about women in tech.
+
+[Video (in Ukrainian)](https://www.youtube.com/watch?v=wMomDJirB-A) - 20 August 2022
 
 ### SecuriTea
 
