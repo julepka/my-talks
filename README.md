@@ -1,18 +1,31 @@
 <img src="https://github.com/julepka/my-talks/blob/main/me.jpg?raw=true" width="300" align="right">
 
-This repo is where I keep a list of my tech talks about application security and related topics.
+This repo is where I keep a list of my tech talks about application security, women in tech and related topics.
 
 My name is Julia. I'm from Ukraine 🇺🇦 Nice to meet you! 👋 
 
-I'm a Lead Security Engineer at [Cossack Labs](https://cossacklabs.com), building convenient and affordable data security and encryption solutions. My main personal specialization is mobile application security and Secure SDLC, as I have a solid background in mobile application development. I like to build stuff, not to break it 😄 I hold an SSCP certification.
+I'm a Lead Security Engineer at [Cossack Labs](https://cossacklabs.com), building convenient and affordable data security and encryption solutions. My main personal specialization is mobile application security and Secure SDLC, as I have a solid background in mobile application development. Together with my team I like to build secure stuff, not to break it 😄 I hold an SSCP certification.
 
-Take a look at our open-source tools: 
+Take a look at case studies for projects I worked on: 
 
-⭐ [Themis](https://github.com/cossacklabs/themis) - high-level cryptographic library, suppotring 14 platforms/languages.
+⭐ [Product security for one of the biggest African banks](https://www.cossacklabs.com/case-studies/african-bank/)
 
-⭐ [Acra](https://github.com/cossacklabs/acra) - database security suite with field level encryption for sensitive data protection.
+⭐ [Xumm wallet security assurance and improvements](https://www.cossacklabs.com/case-studies/xumm-xrp-wallet-security/)
 
-Also, I'm passionate about local tech communities. 👩🏼‍💻 I'm a Director at [Women Who Code Kyiv](https://www.womenwhocode.com/kyiv), a Leader of the [OWASP Zhytomyr Chapter](https://owasp.org/www-chapter-zhytomyr), and a contributor to [OWASP MASVS/MSTG](https://github.com/OWASP/owasp-mstg).
+⭐ [Building ironclad data security for M&A solution leader](https://www.cossacklabs.com/case-studies/vdr/)
+
+⭐ [Cryptographic IP protection for AI/ML product](https://www.cossacklabs.com/case-studies/aiml/)
+
+⭐ [Crypto wallet security assessment for Temple Wallet](https://www.cossacklabs.com/case-studies/temple-wallet/)
+
+I'm passionate about local tech communities. 👩🏼‍💻 I'm a Director at [Women Who Code Kyiv](https://www.womenwhocode.com/kyiv), a Leader of the [OWASP Zhytomyr Chapter](https://owasp.org/www-chapter-zhytomyr), and a contributor to [OWASP MASVS/MSTG/MASDG](https://github.com/OWASP/owasp-mstg).
+
+---
+# Flutter mobile application security
+
+TBD in 2024
+
+Related article: [Flutter application security considerations](https://www.cossacklabs.com/blog/flutter-application-security-considerations/)
 
 ---
 # Crypto Wallets Security. For developers
@@ -93,12 +106,6 @@ Video: [Vimeo (in English)](https://vimeo.com/479270246) [Youtube (in Russian)](
 
 # Discussions Formats
 
-### Vector Interview
-
-Vector media interviewed Women Who Code Kyiv members, including me, about building tech community for women and stereotypes that we're facing. We talked about the history of our chapter, our mentoring program and how we continue to funtion even during russian full-scale invasion of Ukraine.
-
-[Article (in Ukrainian)](https://vctr.media/ua/dolayuchi-stereotipi-yak-women-who-code-kyiv-rozbudovuyut-zhinoche-tehnologichne-kom%ca%bcyuniti-183025/) - 11 May 2023
-
 ### DOU Interview "Who is Security Specialist?"
 
 It was a short interview under their "X questions" format where I was answering general questions about working in cybersecurity. For example, who is security engineer, what are pros and cons of profession in cybersecurity, are security certifications worth it, etc. 
@@ -120,12 +127,6 @@ The audience of IT Nation 2.0 are people who fled from war from Eastern part of 
 We've dicussed what secure software development lifecycle is and how to implement it.
 
 [Video (in English)](https://www.youtube.com/watch?v=8iRq97kIJ4A) of the [event](https://www.linkedin.com/events/securesoftwaredevelopment-howto6976125231245455360/) - 21 September 2022
-
-### Dima Maleev Podcast "What's wrong with IT?"
-
-It was a Podcast where participants were raising donations for Armed Forces of Ukrained. While we were aiming at 4 million hryvnias, we've actually raised 12 millions! It is about $300 000. I was just amazing. I was just one of the guests. I've talked about Women Who Code Kyiv community and stereotypes about women in tech.
-
-[Video (in Ukrainian)](https://www.youtube.com/watch?v=wMomDJirB-A) - 20 August 2022
 
 ### SecuriTea
 
@@ -166,3 +167,30 @@ Presented at OWASP Zhytomyr local meetup - 29 June 2019.
 Presented at OWASP Kyiv local meetup - 6 April 2019.
 
 [Slides](https://speakerdeck.com/julep/owasp-mstg-in-real-life). [Video (in Russian)](https://youtu.be/BTkXlsTQtlI)
+
+---
+
+# Diversity and Inclusion
+
+### Diversity Programs: The Key to Building and Supporting Inclusive Tech Teams
+
+Presented at WTM Ukraine: Recharge for 2024 - 10 December 2023.
+
+[Slides](https://docs.google.com/presentation/d/1rw6ucIfUr74OjKrVz2cyh5wVnAFQME1i/edit#slide=id.p1)
+
+### History of Women Who Code Kyiv through wartime
+
+Presented at MacPaw meetup: Women in Engineering - 25 October 2023
+
+### Vector Interview
+
+Vector media interviewed Women Who Code Kyiv members, including me, about building tech community for women and stereotypes that we're facing. We talked about the history of our chapter, our mentoring program and how we continue to funtion even during russian full-scale invasion of Ukraine.
+
+[Article (in Ukrainian)](https://vctr.media/ua/dolayuchi-stereotipi-yak-women-who-code-kyiv-rozbudovuyut-zhinoche-tehnologichne-kom%ca%bcyuniti-183025/) - 11 May 2023
+
+### Dima Maleev Podcast "What's wrong with IT?"
+
+It was a Podcast where participants were raising donations for Armed Forces of Ukraine. While we were aiming at 4 million hryvnias, we've actually raised 12 millions! It is about $300 000. I was just amazing. I was just one of the guests. I've talked about Women Who Code Kyiv community and stereotypes about women in tech.
+
+[Video (in Ukrainian)](https://www.youtube.com/watch?v=wMomDJirB-A) - 20 August 2022
+
