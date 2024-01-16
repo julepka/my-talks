@@ -18,7 +18,7 @@ Take a look at case studies for projects I worked on:
 
 ⭐ [Crypto wallet security assessment for Temple Wallet](https://www.cossacklabs.com/case-studies/temple-wallet/)
 
-I'm passionate about local tech communities. 👩🏼‍💻 I'm a Director at [Women Who Code Kyiv](https://www.womenwhocode.com/kyiv), a Leader of the [OWASP Zhytomyr Chapter](https://owasp.org/www-chapter-zhytomyr), and a contributor to [OWASP MASVS/MSTG/MASDG](https://github.com/OWASP/owasp-mstg).
+I'm passionate about local tech communities. 👩🏼‍💻 I'm a Director at [Women Who Code Kyiv](https://www.womenwhocode.com/kyiv), a Leader of the [OWASP Zhytomyr Chapter](https://owasp.org/www-chapter-zhytomyr), and a contributor to [OWASP MAS](https://github.com/OWASP/owasp-mstg).
 
 ---
 # Flutter mobile application security
